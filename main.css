@@ -1,0 +1,29 @@
+body {
+    width: 300px;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+.root {
+    display: flex;
+}
+
+.btn {
+    flex-grow: 1;
+    margin: 5px;
+    text-align: center;
+    user-select: none;
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+}
+
+.cnt {
+    flex-grow: 2;
+    margin: 5px;
+    text-align: center;
+    user-select: none;
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+}
