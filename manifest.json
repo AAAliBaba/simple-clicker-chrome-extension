@@ -1,0 +1,10 @@
+{
+    "name": "Arafat's Clicker",
+    "version": "1.0",
+    "description": "Learning how to create a Chrome extension by implementing a simple clicker",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "main.html",
+        "default_title": "Clicker"
+    }
+}
