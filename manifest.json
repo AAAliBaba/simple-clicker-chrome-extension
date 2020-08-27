@@ -7,5 +7,8 @@
         "default_popup": "main.html",
         "default_title": "Clicker"
     },
-    "content_security_policy": "script-src 'self' https://use.fontawesome.com; object-src 'self'"
+    "content_security_policy": "script-src 'self' https://use.fontawesome.com; object-src 'self'",
+    "permissions": [
+        "storage"
+    ]
 }
