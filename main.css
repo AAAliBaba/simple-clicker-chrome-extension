@@ -18,6 +18,10 @@ body {
     outline-style: solid;
 }
 
+.btn:hover {
+    background-color: lightslategray;
+}
+
 .cnt {
     flex-grow: 2;
     margin: 5px;
